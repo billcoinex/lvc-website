@@ -49,12 +49,16 @@
   width: 1000px;
   height: 600px;
   border-radius: 10px;
+}
 
-  @media screen  and (min-width : 320px) and (max-width: 480px) {
-    width: 18em;
-    height: 13em;
+@media screen and (max-width: 480px) {
+  .image {
+    width: 21em !important;
+    height: 18em !important;
   }
-  
+  .slider {
+    height: 45vh;
+  }
 }
 
 .right-arrow {

@@ -18,8 +18,8 @@ const ServiceImg = styled.img`
   height: 17em;
 
   @media screen and (max-width: 480px) {
-    width: 18em;
-    height: 13em;
+    width: 22em;
+    height: 18em;
   }
 `;
 
@@ -49,7 +49,7 @@ const Details = styled.p`
   color: #7a7a7a;
   font-size: 21px;
   text-align: center;
-  max-width: 55%;
+  max-width: 80%;
 
   @media screen and (max-width: 480px) {
     width: 100%;
