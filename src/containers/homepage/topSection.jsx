@@ -67,7 +67,7 @@ export function TopSection(props) {
           <Button>Start your Project</Button>
           <Marginer direction="vertical" margin="6em" />
           <MotivationalText>NEED HELP? GET IN TOUCH</MotivationalText>
-          <GetHelp>072 686 182 | lungelo@convertvehicle.com </GetHelp>
+          <GetHelp>072 686 1824 | lungelo@convertvehicle.com </GetHelp>
           <DownArrowContainer onClick={scrollToNextSection}>
             <DownArrow />
           </DownArrowContainer>
